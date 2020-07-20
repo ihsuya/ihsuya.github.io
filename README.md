@@ -8,6 +8,7 @@ By the way, I am making these changes in 2020. Just realised I can strikethrough
 
 *Life is but a game of brains.*
 
+##### Gonna learn bits about deeper programming everyday and learn new stuff
 
 
 
